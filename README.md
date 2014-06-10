@@ -2,7 +2,7 @@
 
 ### About
 
-Bootstrap 3 theme for Pico.
+Bootstrap 3 theme for Pico CMS.
 
 ### Installation
 
